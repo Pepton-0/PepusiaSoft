@@ -1,4 +1,4 @@
-#-----PepusiaSoft 0.1 beta(以下、本ソフト) についての解説-----
+# PepusiaSoft 0.1 beta(以下、本ソフト) についての解説
 
 
 概要:
